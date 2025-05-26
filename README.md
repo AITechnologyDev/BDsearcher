@@ -13,9 +13,9 @@ RU
 
 ## ⚙️ Установка
 1. Клонируйте репозиторий:
-   ```bash
+   ``
    git clone https://github.com/ваш-репозиторий/BDSearcher.git
-   cd BDSearcher
+   cd BDSearcher``
 
 ENG
 # 🔍 BDSearcher - Universal file search engine
@@ -30,8 +30,8 @@ An extensible tool for searching text in files of various formats with support f
 - Generation of reports in SQL/JSON/TXT
 - Cleaning files from garbage and duplicates
 
-## , Installation
+## ⚙️ Installation
 1. Clone the repository:
-``bash
+``
  git clone https://github.com/ваш-репозиторий/BDSearcher.git
-cd BDSearcher
+ cd BDSearcher``
