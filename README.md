@@ -12,10 +12,14 @@ RU
 - Очистка файлов от мусора и дубликатов
 
 ## ⚙️ Установка
-1. Клонируйте репозиторий:
-   ``
+1. Клонируйте репозиторий: ``
    git clone https://github.com/ваш-репозиторий/BDSearcher.git
+   ``
+2. Войдите в дирректорию:``
    cd BDSearcher
+   ``
+4. Запустите код:``
+   python BDSearcher.py
    ``
 
 ENG
@@ -32,8 +36,12 @@ An extensible tool for searching text in files of various formats with support f
 - Cleaning files from garbage and duplicates
 
 ## ⚙️ Installation
-1. Clone the repository:
-``
+1. Clone the repository: ``
  git clone https://github.com/ваш-репозиторий/BDSearcher.git
- cd BDSearcher
 ``
+2. Log in to the directory: ``
+cd BDSearcher
+``
+4. Run the code:``
+ python BDSearcher.py
+ ``
