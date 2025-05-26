@@ -13,7 +13,7 @@ RU
 
 ## ⚙️ Установка
 1. Клонируйте репозиторий: ``
-   git clone https://github.com/ваш-репозиторий/BDSearcher.git
+   git clone https://github.com/AITechnologyDev/BDsearcher.git
    ``
 2. Войдите в дирректорию:``
    cd BDSearcher
@@ -37,7 +37,7 @@ An extensible tool for searching text in files of various formats with support f
 
 ## ⚙️ Installation
 1. Clone the repository: ``
- git clone https://github.com/ваш-репозиторий/BDSearcher.git
+ git clone https://github.com/AITechnologyDev/BDsearcher.git
 ``
 2. Log in to the directory: ``
 cd BDSearcher
