@@ -15,7 +15,8 @@ RU
 1. Клонируйте репозиторий:
    ``
    git clone https://github.com/ваш-репозиторий/BDSearcher.git
-   cd BDSearcher``
+   cd BDSearcher
+   ``
 
 ENG
 # 🔍 BDSearcher - Universal file search engine
@@ -34,4 +35,5 @@ An extensible tool for searching text in files of various formats with support f
 1. Clone the repository:
 ``
  git clone https://github.com/ваш-репозиторий/BDSearcher.git
- cd BDSearcher``
+ cd BDSearcher
+``
