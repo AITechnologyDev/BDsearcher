@@ -18,7 +18,10 @@ RU
 2. Войдите в дирректорию:``
    cd BDSearcher
    ``
-4. Запустите код:``
+3. Установите зависимости:``
+   pip install -r requirements.txt
+   ``
+5. Запустите код:``
    python BDSearcher.py
    ``
 
@@ -41,6 +44,9 @@ An extensible tool for searching text in files of various formats with support f
 ``
 2. Log in to the directory: ``
 cd BDSearcher
+``
+3. Install the dependencies: ``
+pip install -r requirements.txt
 ``
 4. Run the code:``
  python BDSearcher.py
